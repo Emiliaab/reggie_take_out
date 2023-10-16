@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05b28122-a8d7-4070-be57-d83bc6e09873" name="Default Changelist" comment="使用redis缓存菜品数据">
+    <list default="true" id="05b28122-a8d7-4070-be57-d83bc6e09873" name="Default Changelist" comment="使用spring cache缓存套餐数据">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/ReggieApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/common/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetmealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/SetmealController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/ReggieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/ReggieApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/R.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/DishController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/SetmealController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="v1.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,6 +120,7 @@
         <item itemvalue="JUnit.UploadFileTest.test1" />
         <item itemvalue="Spring Boot.ReggieApplication" />
         <item itemvalue="JUnit.UploadFileTest.test1" />
+        <item itemvalue="Spring Boot.ReggieApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +159,8 @@
       <workItem from="1697196638241" duration="3061000" />
       <workItem from="1697250417395" duration="1680000" />
       <workItem from="1697327179935" duration="1132000" />
+      <workItem from="1697454737980" duration="596000" />
+      <workItem from="1697458355625" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="更新忽略文件">
       <created>1697195352480</created>
