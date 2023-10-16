@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05b28122-a8d7-4070-be57-d83bc6e09873" name="Default Changelist" comment="使用spring cache缓存套餐数据">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新忽略文件" />
     <MESSAGE value="redis配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis配置文件" />
+    <MESSAGE value="使用shardingjdbc实现读写分离" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用shardingjdbc实现读写分离" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
